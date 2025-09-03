@@ -1,5 +1,6 @@
 // Interface for animals that can run
 
-public class Runnable {
-    
+interface Runnable {
+    //The running method for all running animals
+    void run();
 }
